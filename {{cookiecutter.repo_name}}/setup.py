@@ -30,7 +30,7 @@ setup(
     packages=[
         '{{ cookiecutter.repo_name }}',
     ],
-    package_dir={'src': '{{ cookiecutter.repo_name }}'},
+    package_dir={'{{ cookiecutter.repo_name }}': '{{ cookiecutter.repo_name }}'},
     include_package_data=True,
     install_requires=[
     ],
