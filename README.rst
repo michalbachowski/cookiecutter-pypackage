@@ -10,6 +10,7 @@ Cookiecutter template for a Python package. See https://github.com/audreyr/cooki
 * Tox_ testing: Setup to easily test for Python 2.6, 2.7, 3.3
 * Sphinx_ docs: Documentation ready for generation with, for example, ReadTheDocs_
 * .coveragerc
+* Vagrant
 
 Usage
 -----
